@@ -1,6 +1,6 @@
 
 # Challenge : E-Commerce Back End
-[Demo Video](link.com)
+[Installation Demo](./assets/installation-demo.webm)
 
 ## Description
 This application contains the back end code for an e-commerce website. The application calls on Express.js API to use Sequelize to interact with a MySQL database. It contains routes that allow users to GET, POST, PUT (update), and DELETE data.
