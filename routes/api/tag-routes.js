@@ -25,7 +25,7 @@ router.get('/:id', async (req, res) => {
     //search by primary key
     const tagData = await Tag.findByPk(req.params.id,{
       //JOIN with product using the product tag
-      include: [{model: Product, through: ProductTag, as: 'product_tag'}]
+      include: [{model: Product}]
     });
   if(!tagData) {
     //status: not found
