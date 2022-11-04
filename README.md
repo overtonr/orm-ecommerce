@@ -1,6 +1,7 @@
 
 # Challenge : E-Commerce Back End
 [Installation Demo](https://drive.google.com/file/d/1MkZm8vAvVo8_mE6LQGZyuENIoHZGO-G3/view)
+[Insomnia Demo](https://drive.google.com/file/d/15xjPessrD95KpUySeCRJp5Sx5lKSknbR/view)
 
 ## Description
 This application contains the back end code for an e-commerce website. The application calls on Express.js API to use Sequelize to interact with a MySQL database. It contains routes that allow users to GET, POST, PUT (update), and DELETE data.
