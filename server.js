@@ -16,6 +16,8 @@ app.use(routes);
 
 
 // sync sequelize models to the database, then turn on the server
+//if force === true: drops and recreates table on every sync
+//because this is false, table is persistent
 sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, ()=>console.log(`App listening on port ${PORT}!`));
 });
