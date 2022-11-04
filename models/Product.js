@@ -20,7 +20,7 @@ Product.init(
       allowNull: false
     },
     price: {
-      type: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL(10,2),
       allowNull: false,
       isDecimal: true,
   
@@ -29,11 +29,17 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       //default val 10
+      //"10"?
+      defaultValue: 10,
       isNumeric: true,
     },
     category_id: {
       type: DataTypes.INTEGER,
       //references category models id
+      references: {
+        model: 'category',
+        key: 'id',
+      }
     },
   },
   {
