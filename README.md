@@ -1,5 +1,5 @@
 
-# Challenge : E-Commerce Back End
+# E-Commerce Back End
 [Installation Demo](https://drive.google.com/file/d/1MkZm8vAvVo8_mE6LQGZyuENIoHZGO-G3/view)
 
 <br>
