@@ -1,7 +1,6 @@
 
 # E-Commerce Back End
 [Installation Demo](https://drive.google.com/file/d/1MkZm8vAvVo8_mE6LQGZyuENIoHZGO-G3/view)
-
 <br>
 
 [Insomnia Demo](https://drive.google.com/file/d/15xjPessrD95KpUySeCRJp5Sx5lKSknbR/view)
@@ -18,6 +17,7 @@ This application contains the back end code for an e-commerce website. The appli
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 - [Questions](#questions)
 
@@ -70,6 +70,17 @@ POST new or update existing data to specific routes:
 <br>
 And the ability to DELETE specific data by referenging the ID of the data. Be sure to watch the demo video linked at the top of the README to see a full demonstration of the routes being tested on Insomnia.
 
+<br>
+
+## Technologies Used:
+* Github
+* Node.js
+* Express.js
+* MySQL
+* Sequelize
+* JavaScript
+* VS Code
+* Insomnia (for testing)
 
 <br>
 
