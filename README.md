@@ -1,6 +1,6 @@
 
 # E-Commerce Back End
-[Installation Demo](./assets/installation-demo.webm)
+![Installation Demo](./assets/install-demo.gif)
 <br>
 
 [Insomnia Demo](https://drive.google.com/file/d/15xjPessrD95KpUySeCRJp5Sx5lKSknbR/view)
