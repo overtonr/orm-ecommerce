@@ -1,9 +1,7 @@
 
 # E-Commerce Back End
-![Installation Demo](./assets/install-demo.gif)
-<br>
 
-[Insomnia Demo](https://drive.google.com/file/d/15xjPessrD95KpUySeCRJp5Sx5lKSknbR/view)
+![Insomnia Demo](./assets/insomnia-routes.gif)
 
 ## Description
 This application contains the back end code for an e-commerce website. The application calls on Express.js API to use Sequelize to interact with a MySQL database. It contains routes that allow users to GET, POST, PUT (update), and DELETE data.
@@ -47,6 +45,9 @@ Then the user will seed the provided data by running:
 ```
 <br>
 
+Follow the installation demonstration : ![Installation Demo](./assets/install-demo.gif)
+
+
 ## Usage
 To start the server, the user will navigate to the root directory and run the following command:
 ```
@@ -71,6 +72,10 @@ POST new or update existing data to specific routes:
 And the ability to DELETE specific data by referenging the ID of the data. Be sure to watch the demo video linked at the top of the README to see a full demonstration of the routes being tested on Insomnia.
 
 <br>
+
+See the example of the routes being tested through Insomnia. In the GIF, all of the routes for categories are being tested. Make sure that the correct JSON syntax is used to for the POST and PUT routes.
+
+![Insomnia Demo](./assets/insomnia-routes.gif)
 
 ## Technologies Used:
 * Github
