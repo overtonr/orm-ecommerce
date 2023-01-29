@@ -47,7 +47,9 @@ Then the user will seed the provided data by running:
 ```
 <br>
 
-Follow the installation demonstration : ![Installation Demo](./assets/install-demo.gif)
+Follow the installation demonstration : 
+
+![Installation Demo](./assets/install-demo.gif)
 
 
 ## Usage
