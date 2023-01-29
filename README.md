@@ -3,6 +3,8 @@
 
 ![Insomnia Demo](./assets/insomnia-routes.gif)
 
+<br>
+
 ## Description
 This application contains the back end code for an e-commerce website. The application calls on Express.js API to use Sequelize to interact with a MySQL database. It contains routes that allow users to GET, POST, PUT (update), and DELETE data.
 
@@ -56,16 +58,19 @@ To start the server, the user will navigate to the root directory and run the fo
 To be able to interact with the various routes, it is suggested that the user uses the app Insomnia to create various request with the various routes.
 
 Users have the ability to retrieve all data from a specific route:
+
 ![Get all response example](./assets/get-all-ss.png)
 
 <br>
 
 Specific data from a specific route by referencing the ID of the data:
+
 ![Get by ID example](./assets/get-id-ss.png)
 
 <br>
 
 POST new or update existing data to specific routes:
+
 ![Create new category example](./assets/create-ss.png)
 
 <br>
